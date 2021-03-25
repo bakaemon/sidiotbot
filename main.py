@@ -243,4 +243,4 @@ async def randomball(cxt, *args):
                      "i'm 8ball, not fball",
                      "look like you are blind, cuz no question there."]
     await cxt.send(random.choice(responses))
-bot.run('ODI0MjQ5Njg4OTY5OTY5Njg1.YFsoVw.XvZPIVu0k9DIIHkcusxHU-sV4jE')
+bot.run('ODI0MjQ5Njg4OTY5OTY5Njg1.YFsoVw.LGskOkKUPK-v74AX4X0yNUKWHMo')
